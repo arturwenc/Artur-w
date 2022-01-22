@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Artur
-- 👀 I’m interested in technology with en.
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on something.
+- 👀 I’m interested in technology.
+- 🌱 I’m working as DevOps
+- 💞️ I’m still looking to collaborate on something.
 - 📫 How to reach me artur.wenc.dev@gmail.comw
 
 <!---
